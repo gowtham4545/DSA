@@ -9,6 +9,8 @@ Note:
 2. You are not allowed to do multiple transactions at the same time. This means you have to sell the stock before buying it again. 
 */
 
+// Hint: advancment of stocks 2 problem, just adding limits of no of transactions.
+
 #include<bits/stdc++.h>
 using namespace std;
 
