@@ -4,6 +4,8 @@
 ## [Algorithms](./Algorithms/)
 - [Dijkstra Algorithm](./Algorithms/Dijkstra.cpp)
 ## [Arrays](./Arrays/)
+- [Diagonal Traversal](./Arrays/diagonal_traverse.cpp)
+- [Find the duplicate number](./Arrays/find_the_duplicate_number.cpp)
 ## [Dynamic Programming](./Dynamic%20Programming/)
 ## [Searching](./Searching/)
 ## [Sorting](./Sorting/)
