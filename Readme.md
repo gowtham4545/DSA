@@ -11,6 +11,7 @@
 ## [Dynamic Programming](./Dynamic%20Programming/)
 ### [1D](./Dynamic%20Programming/1D/)
 - [Climbing Stars](./Dynamic%20Programming/1D/climbing_stars.cpp)
+- [Frog Jump](./Dynamic%20Programming/1D/frog_jump.cpp)
 ### [Grids](./Dynamic%20Programming/Grids/)
 - [Chocolate Pickup](./Dynamic%20Programming/Grids/chocolate_pickup.cpp)
 
