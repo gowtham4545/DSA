@@ -15,6 +15,7 @@
 - [Maximum Sum of Non Adjacent Elements](./Dynamic%20Programming/1D/max_sum_of_non_adjacent_elements.cpp)
 ### [Grids](./Dynamic%20Programming/Grids/)
 - [Chocolate Pickup](./Dynamic%20Programming/Grids/chocolate_pickup.cpp)
+- [Knight Dealer](./Dynamic%20Programming/Grids/knight_dialer.cpp)
 
 ## [Searching](./Searching/)
 
