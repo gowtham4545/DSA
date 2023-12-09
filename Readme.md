@@ -10,6 +10,7 @@
 - [kth Smallest Element](./Arrays/kth_smallest_element.cpp)
 - [Max Subarray Sum](./Arrays/max_subarray_sum.cpp)
 - [Missing and Repeated numbers](./Arrays/missing_and_repeated_numbers.cpp)
+- [Remove Duplicates from Sorted Array](./Arrays/remove_duplicates_from_sorted_order.cpp)
 ## [Dynamic Programming](./Dynamic%20Programming/)
 ### [1D](./Dynamic%20Programming/1D/)
 - [Climbing Stars](./Dynamic%20Programming/1D/climbing_stars.cpp)
