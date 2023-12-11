@@ -20,7 +20,7 @@
 ### [Grids](./Dynamic%20Programming/Grids/)
 - [Chocolate Pickup](./Dynamic%20Programming/Grids/chocolate_pickup.cpp)
 - [Knight Dealer](./Dynamic%20Programming/Grids/knight_dialer.cpp)
-
+- [Maximum Path Sum in Matrix](./Dynamic%20Programming/Grids/maximum_path_sum_in_matrix.cpp)
 ## [Searching](./Searching/)
 
 ## [Sorting](./Sorting/)
