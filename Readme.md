@@ -22,6 +22,8 @@
 - [Knight Dealer](./Dynamic%20Programming/Grids/knight_dialer.cpp)
 - [Maximum Path Sum in Matrix](./Dynamic%20Programming/Grids/maximum_path_sum_in_matrix.cpp)
 - [Minimum Sum paths](./Dynamic%20Programming/Grids/minimum_sum_paths.cpp)
+- [Unique Paths](./Dynamic%20Programming/Grids/unique_paths.cpp)
+- [Unique Paths 2](./Dynamic%20Programming/Grids/unique_paths_2.cpp)
 ## [Searching](./Searching/)
 
 ## [Sorting](./Sorting/)
