@@ -26,6 +26,7 @@
 - [Unique Paths 2](./Dynamic%20Programming/Grids/unique_paths_2.cpp)
 
 ### [Stocks](./Dynamic%20Programming/Stocks/)
+- [Best Time to Buy and Sell](./Dynamic%20Programming/Stocks/best_time_to_buy_and_sell.cpp)
 ## [Searching](./Searching/)
 
 ## [Sorting](./Sorting/)
