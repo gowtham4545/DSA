@@ -27,6 +27,7 @@
 
 ### [Stocks](./Dynamic%20Programming/Stocks/)
 - [Best Time to Buy and Sell](./Dynamic%20Programming/Stocks/best_time_to_buy_and_sell.cpp)
+- [Best Time to Buy and Sell 2](./Dynamic%20Programming/Stocks/b_s_stocks_2.cpp.cpp)
 
 ## [Searching](./Searching/)
 
