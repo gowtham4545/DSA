@@ -4,6 +4,7 @@
 
 ## [Algorithms](./Algorithms/)
 - [Dijkstra Algorithm](./Algorithms/Dijkstra.cpp)
+- [Moore's Voting Algoritm](./Algorithms/Moore's_Voting_Algorithm.cpp)
 ## [Arrays](./Arrays/)
 - [Diagonal Traversal](./Arrays/diagonal_traverse.cpp)
 - [Find the duplicate number](./Arrays/find_the_duplicate_number.cpp)
