@@ -35,6 +35,7 @@
 - [Best Time to Buy and Sell with Transaction Fee](./Dynamic%20Programming/Stocks/buy_and_sell_stocks_with_transaction_fee.cpp.cpp)
 
 ### [Strings](./Dynamic%20Programming/Strings/)
+- [Distinct Subsequences](./Dynamic%20Programming/Strings/distinct_subsequences.cpp)
 
 ## [Searching](./Searching/)
 
