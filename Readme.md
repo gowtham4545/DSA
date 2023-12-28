@@ -36,6 +36,7 @@
 
 ### [Strings](./Dynamic%20Programming/Strings/)
 - [Distinct Subsequences](./Dynamic%20Programming/Strings/distinct_subsequences.cpp)
+- [Edit Distance](./Dynamic%20Programming/Strings/edit_distance.cpp)
 
 ## [Searching](./Searching/)
 
