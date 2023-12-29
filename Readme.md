@@ -37,6 +37,8 @@
 ### [Strings](./Dynamic%20Programming/Strings/)
 - [Distinct Subsequences](./Dynamic%20Programming/Strings/distinct_subsequences.cpp)
 - [Edit Distance](./Dynamic%20Programming/Strings/edit_distance.cpp)
+- [Longest Common Subsequence](./Dynamic%20Programming/Strings/Longest_common_sequence.cpp)
+- [Longest Common Substring](./Dynamic%20Programming/Strings/Longest_common_substring.cpp)
 
 ## [Searching](./Searching/)
 
