@@ -50,3 +50,12 @@
 ## [Machine Leaning](./Machine%20Learning/)
 ## [Projects](./Projects/)
 ## [Streamlit](./Streamlit/)
+
+> -----------------------------------
+> -----------------------------------
+
+# [Advanced](./Advanced/)
+
+### [Goldman Saks](./Advanced/Goldman%20Sacks/)
+
+- [Minimize the Maximum of Two Arrays](./6Companies30Days/Goldman%20Sacks/Minimize_the_maximum_of_two_arrays.cpp)
