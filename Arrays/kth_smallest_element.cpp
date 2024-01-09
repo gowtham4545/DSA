@@ -28,7 +28,7 @@ int kthSmallest(int arr[], int N, int K)
 
 // ---------------------------------------------------------------------------------------------------
 // Using QuickSelect method.
-// [link](https://www.geeksforgeeks.org/kth-smallest-largest-element-in-unsorted-array/)
+// (https://www.geeksforgeeks.org/kth-smallest-largest-element-in-unsorted-array/)
 
 int partition(int arr[], int l, int r)
 {
